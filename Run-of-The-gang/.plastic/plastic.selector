@@ -1,0 +1,4 @@
+repository "FollowGameHyperCasual@lianyou@cloud"
+  path "/"
+    br "/main"
+    co "/main"
